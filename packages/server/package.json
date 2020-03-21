@@ -10,7 +10,7 @@
   "repository": "https://github.com/jimbo-marsh/minecraft-scripting-types",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "minecraft-scripting-types-shared": "https://github.com/jimbo-marsh/minecraft-scripting-types"
+    "minecraft-scripting-types-shared": "git://github.com/jimbo-marsh/minecraft-scripting-types"
   },
   "devDependencies": {
     "typescript": "^3.1.3"
