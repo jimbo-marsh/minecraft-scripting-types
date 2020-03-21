@@ -1,13 +1,13 @@
 {
   "name": "minecraft-scripting-types-shared",
-  "version": "1.0.0",
+  "version": "1.13.1",
   "description": "Shared TypeScript definitions for Minecraft Bedrock Edition's scripting engine",
   "contributors": [
     "AtomicBlom",
     "abc55"
   ],
   "homepage": "https://github.com/minecraft-addon-tools/minecraft-scripting-types",
-  "repository": "https://github.com/minecraft-addon-tools/minecraft-scripting-types",
+  "repository": "git://github.com/jimbo-marsh/minecraft-scripting-types",
   "license": "CC-BY-NC-SA-3.0",
   "devDependencies": {
     "typescript": "^3.1.3"
